@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "William Zhu",
+    "label": "Programmer",
+    "email": "will.zhu.ye@gmail.com",
+    "phone": "(647) 993-3860",
+    "website": "https://william5656.github.io",
+    "summary": "Self motivated web developer with a passion for programming, creating applications and websites. Passionate about programming and enjoys overcoming challenges that come with it. Constantly in the pursuit of learning new technologies and seeking opportunities for growth .",
+    "location": {
+      "city": "Markham",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "LinkedIn page",
+        "url": "https://www.linkedin.com/in/william-zhu-63a778163/"
+      },
+      {
+        "network": "GitHub",
+        "username": "william5656",
+        "url": "https://github.com/william5656"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Order Management System",
+      "position": "back-end development",
+      "website": "https://omsystem.herokuapp.com/",
+      "startDate": "2013-01-01",
+      "endDate": "2013-01-01",
+      "summary": "This app is a portfolio management system designed for Barometer Capital Management Inc. Assisting Asset Managers with recoding of trades needed to be made and saved for each portfolio",
+      "highlights": [
+        "Used the Alpha API to display information customized to display wanted output",
+        "Worked on functionality of the React App",
+        "Provide technical leadership to cross-functional team members and build trusting relationships."
+      ]
+    },
+    {
+      "company": "Super Hero Search",
+      "position": "Back-end, Front-end Deveopment",
+      "website": "https://william5656.github.io/group-project/",
+      "startDate": "2013-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Our group wanted to created a website where poeple could search for comic book heros products, story, movies. Focused on peopel who don't understand much about comic book heros",
+      "highlights": [
+        "Created websites using various api's and technologies",
+        "Experienced with GitHub, coordinating work on files among multiple people",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Azyun Restaurant",
+      "position": "Cook",
+      "website": "http://azyunrestaurant.com/",
+      "startDate": "2013-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Experienced opening up a new restaurant with incredible people, an joyful experience learning about the struggle of building something from the bottom and working to make it bigger"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Toronto School Of Continuing Studies",
+      "area": "Web Development",
+      "studyType": "UofT SCS Coding Boot Camp",
+      "startDate": "2013-01-01",
+      "endDate": "2013-01-01",
+      "courses": [
+        "Experienced with html, CSS, JavaScript and various Back-End languages",
+        "Learned to work in groups created projects and to communicate with each other",
+        "Experienced using branches, pushing, pulling, merging on GitHub",
+        "Learned and applied MVC and Object Oriented Programming"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technologies",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "MongoDB",
+        "Node.js",
+        "Express.js",
+        "MySQL",
+        "jQuery",
+        "React"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": [
+        "Problem solving",
+        "Self Learning",
+        "Communication"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "reference": "Upon Request"
+    }
+  ]
+}
